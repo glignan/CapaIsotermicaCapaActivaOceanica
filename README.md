@@ -1,2 +1,2 @@
 # CapaIsotermicaCapaActivaOceanica
-Capa Izotermica y Capa Activa
+Capa Izotermica y Capa Activa Oceanica
